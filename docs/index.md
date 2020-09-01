@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Sean Tomlin
 
-You can use the [editor on GitHub](https://github.com/seant16/seantomlin.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Education 
+The Ohio State University       2020 - 2025 (Expected)  
+Doctor of Philosophy - Ph.D. in Biostatistics  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wright State University         2016 - 2020   
+Bachelor of Science - B.S. in Statistics  
+Minor in Mathematics  
+Summa cum laude with honors.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
 
-```markdown
-Syntax highlighted code block
+I graduated this past May from Wright State University in Dayton, Ohio with a B.S. in Statistics. My work experience has primarily been in the Defense, Aerospace, and Aviation sectors. Last summer I worked as a Statistics Intern in the Scientific Test and Analysis Techniques Center of Excellence (STAT COE) at Wright-Patterson Air Force Base, Ohio. This pandemic summer, I worked as a virtual Research Intern with NASA Langley Research Center in the Hypersonic and Airbreathing Propulsion Branch of the Research Directorate. These positions, particularly the one with NASA, were heavily computational so I’ve become proficient in Linux, shell scripting, Python, and R. I’ve very much enjoyed these opportunities, and I am excited to explore other areas at the intersection of computing and statistics. I have a few areas of interest that I hope to delve into here at OSU. A few of them are functional data analysis, uncertainty quantification, optimization techniques, spatial-temporal statistics, and clinical informatics + data privacy. I am open to anything and everything, especially if it involves programming, numerical studies, or computer experiments. 
 
-# Header 1
-## Header 2
-### Header 3
+### Work experience
 
-- Bulleted
-- List
+Research Intern  
+NASA Langley Research Center  
+Jun 2020 – Aug 2020  
+Hampton, Virginia, United States
 
-1. Numbered
-2. List
+Statistics Intern  
+MacAulay-Brown Inc.  
+May 2019 – Aug 2019  
+Beavercreek, Ohio, United States  
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seant16/seantomlin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please reach out to me on [my LinkedIn profile](https://www.linkedin.com/in/seantomlinstat/).  
+Alternatively, you can email me at sean dot tom1473 at gmail dot com
