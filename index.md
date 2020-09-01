@@ -22,9 +22,9 @@ Jun 2020 – Aug 2020
 Hampton, Virginia, United States
 
 Statistics Intern  
-MacAulay-Brown Inc. 
-May 2019 – Aug 2019
-Beavercreek, Ohio, United States
+MacAulay-Brown Inc.  
+May 2019 – Aug 2019  
+Beavercreek, Ohio, United States  
 
 
 ### Contact me
