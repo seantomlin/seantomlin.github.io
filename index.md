@@ -1,3 +1,5 @@
+title: "SEAN TOMLIN PERSONAL WEBSITE"
+
 # Sean Tomlin
 
 ### Education 
