@@ -1,6 +1,3 @@
----
-title: "Sean M. Tomlin"
----
 # Welcome!
 I am a Statistician and Graduate Fellow at The Ohio State University. 
 
@@ -29,7 +26,7 @@ Research Intern
 Jun 2020 – Aug 2020  
 Hampton, Virginia, United States*
 
-Statistics Intern 
+Statistics Intern  
 *Scientific Test and Analysis Techniques Center of Excellence  
 MacAulay-Brown Inc.  
 May 2019 – Aug 2019  
