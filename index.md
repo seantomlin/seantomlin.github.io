@@ -1,6 +1,7 @@
-title: "SEAN TOMLIN PERSONAL WEBSITE"
-
-# Sean Tomlin
+---
+title: "SEAN TOMLIN"
+---
+# Welcome to my Bio!
 
 ### Education 
 The Ohio State University       2020 - 2025 (Expected)  
