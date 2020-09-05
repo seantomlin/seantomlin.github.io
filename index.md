@@ -10,10 +10,10 @@ I have a few areas of interest that I hope to delve into here at OSU. A few of t
 
 
 ### Education 
-The Ohio State University, 2020 - Present.  
+The Ohio State University, *2020 - Present*  
 Doctor of Philosophy - Ph.D. in Biostatistics  
 
-Wright State University, 2016 - 2020.   
+Wright State University, *2016 - 2020*  
 Bachelor of Science - B.S. in Statistics  
 Minor in Mathematics  
 Summa cum laude with honors.  
