@@ -29,7 +29,7 @@ Statistics Intern
 *Scientific Test and Analysis Techniques Center of Excellence  
 MacAulay-Brown Inc.  
 May 2019 – Aug 2019  
-Beavercreek, Ohio, United States*
+Wright-Patterson Air Force Base, Ohio, United States*
 
 
 ### Contact me
