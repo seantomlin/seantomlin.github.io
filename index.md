@@ -1,17 +1,8 @@
 ---
-title: "SEAN TOMLIN"
+title: "Sean M. Tomlin"
 ---
-# Welcome to my Bio!
-
-### Education 
-The Ohio State University       2020 - 2025 (Expected)  
-Doctor of Philosophy - Ph.D. in Biostatistics  
-
-Wright State University         2016 - 2020   
-Bachelor of Science - B.S. in Statistics  
-Minor in Mathematics  
-Summa cum laude with honors.  
-
+# Welcome!
+I am a Statistician and Graduate Fellow at The Ohio State University. 
 
 ### About me
 
@@ -22,17 +13,27 @@ My work experience has primarily been in the Defense, Aerospace, and Aviation se
 I have a few areas of interest that I hope to delve into here at OSU. A few of them are functional data analysis, uncertainty quantification, optimization techniques, spatial-temporal statistics, and clinical informatics + data privacy. I am open to anything and everything, especially if it involves programming, numerical studies, or computer experiments.  
 
 
+### Education 
+The Ohio State University, 2020 - Present.  
+Doctor of Philosophy - Ph.D. in Biostatistics  
+
+Wright State University, 2016 - 2020.   
+Bachelor of Science - B.S. in Statistics  
+Minor in Mathematics  
+Summa cum laude with honors.  
+
 ### Work experience
 
 Research Intern  
-NASA Langley Research Center  
+*NASA Langley Research Center  
 Jun 2020 – Aug 2020  
-Hampton, Virginia, United States
+Hampton, Virginia, United States*
 
-Statistics Intern  
+Statistics Intern 
+*Scientific Test and Analysis Techniques Center of Excellence  
 MacAulay-Brown Inc.  
 May 2019 – Aug 2019  
-Beavercreek, Ohio, United States  
+Beavercreek, Ohio, United States*
 
 
 ### Contact me
