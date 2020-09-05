@@ -1,5 +1,4 @@
 # Welcome!
-I am a Statistician and Graduate Fellow at The Ohio State University. 
 
 ### About me
 
