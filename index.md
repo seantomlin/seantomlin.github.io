@@ -1,5 +1,7 @@
 # Welcome!
 
+![](PXL_20201231_214209771.PORTRAIT.jpg)
+
 ### About me
 
 I am a statistician and first year PhD student in Biostatistics at The Ohio State University. I graduated in May 2020 from Wright State University in Dayton, Ohio with a B.S. in Statistics.  
