@@ -8,7 +8,6 @@ My work experience has primarily been in the Defense, Aerospace, and Aviation se
 
 I have a few areas of interest that I hope to delve into here at OSU. A few of them are functional data analysis, uncertainty quantification, optimization techniques, spatial-temporal statistics, and clinical informatics + data privacy. I am open to anything and everything, especially if it involves programming, numerical studies, or computer experiments.  
 
-Healthcare is a human right.  
 
 
 ### Education 
