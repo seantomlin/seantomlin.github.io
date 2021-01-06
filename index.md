@@ -2,11 +2,13 @@
 
 ### About me
 
-I am a statistician and first year PhD student in Biostatistics at The Ohio State University. I graduated this past May from Wright State University in Dayton, Ohio with a B.S. in Statistics.  
+I am a statistician and first year PhD student in Biostatistics at The Ohio State University. I graduated in May 2020 from Wright State University in Dayton, Ohio with a B.S. in Statistics.  
 
-My work experience has primarily been in the Defense, Aerospace, and Aviation sectors. This pandemic summer, I worked as a virtual Research Intern with NASA Langley Research Center in the Hypersonic and Airbreathing Propulsion Branch of the Research Directorate. Last summer I worked as a Statistics Intern in the Scientific Test and Analysis Techniques Center of Excellence (STAT COE) at Wright-Patterson Air Force Base, Ohio.  These positions, particularly the one with NASA, were heavily computational so I’ve become proficient in Linux, shell scripting, Python, and R. I’ve very much enjoyed these opportunities, and I am excited to explore other areas at the intersection of computing and statistics.  
+My work experience has primarily been in the Defense, Aerospace, and Aviation sectors. Over summer 2020, I worked as a virtual Research Intern with NASA Langley Research Center in the Hypersonic and Airbreathing Propulsion Branch of the Research Directorate. Last summer I worked as a Statistics Intern in the Scientific Test and Analysis Techniques Center of Excellence (STAT COE) at Wright-Patterson Air Force Base, Ohio.  These positions, particularly the one with NASA, were heavily computational so I’ve become proficient in Linux, shell scripting, Python, and R. I’ve very much enjoyed these opportunities, and I am excited to explore other areas at the intersection of computing and statistics.  
 
 I have a few areas of interest that I hope to delve into here at OSU. A few of them are functional data analysis, uncertainty quantification, optimization techniques, spatial-temporal statistics, and clinical informatics + data privacy. I am open to anything and everything, especially if it involves programming, numerical studies, or computer experiments.  
+
+Healthcare is a human right.  
 
 
 ### Education 
