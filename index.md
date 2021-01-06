@@ -1,6 +1,6 @@
 # Welcome!
 
-![](PXL_20201231_214209771.PORTRAIT.jpg)
+![](wsufebshoot.jpg)
 
 ### About me
 
