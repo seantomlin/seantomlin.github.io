@@ -1,6 +1,6 @@
 # Welcome!
 
-![](wsufebshoot.jpg)
+<img src="wsufebshoot.jpg" height="24">
 
 ### About me
 
