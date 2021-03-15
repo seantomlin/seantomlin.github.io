@@ -1,6 +1,6 @@
 # Welcome!
 
-<img src="wsufebshoot.jpg" style="width:200px>
+<img src="wsufebshoot.jpg" style="width:200px">
 
 ### About me
 
