@@ -1,5 +1,10 @@
 # Welcome!
 
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 <img src="wsufebshoot.jpg" style="width:200px">
 
 ### About me
