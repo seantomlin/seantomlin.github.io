@@ -1,12 +1,12 @@
 # Welcome!
-
+<html>
 <style>
 img {
   border-radius: 50%;
 }
 </style>
 <img src="wsufebshoot.jpg" style="width:200px">
-
+</html>
 ### About me
 
 I am a statistician and first year PhD student in Biostatistics at The Ohio State University. I graduated in May 2020 from Wright State University in Dayton, Ohio with a B.S. in Statistics.  
