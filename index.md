@@ -1,6 +1,5 @@
 # Welcome!
 
-## Sean Tomlin  
 <img src="wsufebshoot.jpg" height="264">
 
 ### About me
