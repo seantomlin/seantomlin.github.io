@@ -2,10 +2,10 @@
 
 # Hey there! 
 
-I'm Sean Tomlin. Check out [my new website!](https://www.seanmtomlin.com/)
+I'm Sean Tomlin. Check out [my new website](https://www.seanmtomlin.com/) to see what I've been up to lately.
 
 
-Check out what I've been up to over at my other website. 
+
 
 
 [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see an exciting new project!
