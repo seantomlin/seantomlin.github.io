@@ -1,4 +1,4 @@
-<img src="wsufebshoot.jpg" height="264">
+<img src="IMG_2507~4.jpg" height="264">
 
 # Hey there! I'm Sean Tomlin
 
